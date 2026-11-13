@@ -19,7 +19,7 @@ from aiogram.types import (
 # CẤU HÌNH
 # =========================
 
-TOKEN = os.getenv("BOT_TOKEN")
+TOKEN = os.getenv("9113514496:AAH2meonP8LE9fGV6OhZnETFQ55FkzsIB8U")
 VERIFY_TIME = 120
 
 dp = Dispatcher()
